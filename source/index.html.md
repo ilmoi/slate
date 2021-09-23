@@ -33,6 +33,8 @@ This example API documentation page was created with [Slate](https://github.com/
 
 Wow it is that simple.
 
+Try one more timez.
+
 # Authentication
 
 > To authorize, use this code:
