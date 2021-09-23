@@ -31,14 +31,28 @@ We have language bindings in Shell, Ruby, Python, and JavaScript! You can view c
 
 This example API documentation page was created with [Slate](https://github.com/slatedocs/slate). Feel free to edit it and use it as a base for your own API's documentation.
 
+Wow it is that simple.
+
 # Authentication
 
 > To authorize, use this code:
+
+> another
+
+> another
+
+> another
+
+> another
 
 ```ruby
 require 'kittn'
 
 api = Kittn::APIClient.authorize!('meowmeowmeow')
+```
+
+```python
+#yay
 ```
 
 ```python
@@ -58,6 +72,8 @@ const kittn = require('kittn');
 
 let api = kittn.authorize('meowmeowmeow');
 ```
+
+so I'm guessing all and any code will go to the right?
 
 > Make sure to replace `meowmeowmeow` with your API key.
 
